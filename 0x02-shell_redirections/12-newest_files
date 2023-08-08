@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | grep “-“ | head
+ls -t | grep "-" | head
